@@ -1,0 +1,70 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#main-heading{
+  padding-top: 10px;
+  padding:15px;
+  height:50px;
+  z-index: 50;
+  position:sticky;
+  background-color: rgb(185, 178, 168);
+ 
+ 
+}
+#nav_item ul{
+  display:flex;
+  justify-content:space-between;
+}
+#bce_logo{
+  margin-right:10px;
+  height: 40px;
+  width: 45px;
+  border-radius: 10px;
+}
+#robolog{
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+}
+#mid_logo{
+  height:fit-content;
+  width: 100%;
+}
+#logo_container{
+  display:flex;
+  justify-content:left;
+}
+.about a{
+  text-decoration: none;
+  font-weight: 800;
+  color: black;
+}
+.butn_container{
+  height:30px ;
+  min-width: 40px;
+  margin: 10px;
+
+}
+
+
+footer{
+  text-align: center;
+}
+#yan_text{
+  font-size: 30px;
+  text-transform: capitalize;
+}
+#resources a{
+  text-decoration: none;
+  color:black
+}
+#contact h3{
+  font-weight: 200;
+  
+}
+.but_box{
+  display: flex;
+  justify-content: space-between;
+}
